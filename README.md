@@ -56,27 +56,3 @@ I design databases, write RPC functions, and ship Python/TypeScript backends tha
 | **SECR-Media-Analytics** *(private)* | news-clipping and media analytics (Gen AI) | [![Live](https://img.shields.io/badge/Live-000?style=flat-square&logo=vercel&logoColor=white)](https://secr-on2w.vercel.app/) |
 
 Most of my recent work is private: Postgres + Supabase backends, RPC design, and analytics features for production apps.
-
----
-
-<div align="center">
-
-### Stack
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kabir-Yadav&theme=github_dark)
-![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kabir-Yadav&theme=github_dark)
-
-</div>
