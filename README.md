@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=Analytics+Engineer;PostgreSQL+%C2%B7+Supabase+RPCs;Python+%26+TypeScript+backends;Gen+AI+on+structured+data" alt="Typing headline" />
 </a>
 
-Analytics engineer and backend developer focused on **PostgreSQL**, **analytics SQL**, and **Supabase**.
+Analytics engineer and backend developer at F13 Technologies focused on **PostgreSQL**, **analytics SQL**, and **Supabase**.
 
 I design databases, write RPC functions, and ship Python/TypeScript backends that turn operational data into products, including **Gen AI** on top of structured news, social, and ops datasets.
 
