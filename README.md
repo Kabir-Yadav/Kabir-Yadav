@@ -20,11 +20,8 @@ I design databases, write RPC functions, and ship Python/TypeScript backends tha
   </a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,py,supabase,r,aws,ts,js,nextjs,flutter,dart,vercel,git,github&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,py,supabase,r,aws,ts,js,nextjs,flutter,dart,vercel,git,github&theme=light" />
-  <img src="https://skillicons.dev/icons?i=postgres,py,supabase,r,aws,ts,js,nextjs,flutter,dart,vercel,git,github&theme=dark" alt="Tech stack" />
-</picture>
+<img src="https://skillicons.dev/icons?i=postgres,py,supabase,r,aws,ts&theme=dark" alt="Tech stack 1" />
+<img src="https://skillicons.dev/icons?i=js,nextjs,flutter,dart,vercel,git,github&theme=dark" alt="Tech stack 2" />
 <img src="./icons/sql.svg" alt="SQL" width="48" height="23" />
 <img src="./icons/dbt.png" alt="dbt" width="32" height="32" />
 
