@@ -2,7 +2,7 @@
 
 Analytics engineer and backend developer focused on **PostgreSQL**, **analytics SQL**, and **Supabase**.
 
-I design databases, write RPC functions, and ship Python/TypeScript backends that turn operational data into products — including **Gen AI** on top of structured news, social, and ops datasets.
+I design databases, write RPC functions, and ship Python/TypeScript backends that turn operational data into products, including **Gen AI** on top of structured news, social, and ops datasets.
 
 ## Focus
 
@@ -14,11 +14,15 @@ I design databases, write RPC functions, and ship Python/TypeScript backends tha
 
 ## Selected public work
 
-- [**ai-social-analyzer**](https://github.com/Kabir-Yadav/ai-social-analyzer) — social listening and analytics UI (TypeScript / Next.js) · [live](https://ai-social-analyzer-brown.vercel.app)
-- [**NSTFDS**](https://github.com/Kabir-Yadav/NSTFDS) — analytics dashboard for structured operational data · [live](https://nstfds.vercel.app)
-- [**Employee-Portal**](https://github.com/Kabir-Yadav/Employee-Portal) — employee operations web app
-- [**flask_employee_verification**](https://github.com/Kabir-Yadav/flask_employee_verification) — Python / Flask verification backend
-- [**Shortfilms**](https://github.com/Kabir-Yadav/Shortfilms) — media product frontend · [live](https://shortfilms-six.vercel.app)
+- [**DARPAN AI**](https://github.com/Kabir-Yadav/ai-social-analyzer) — social listening and analytics UI (TypeScript / Next.js) · [live](https://ai-social-analyzer-brown.vercel.app)
+- [**NSTFDS**](https://github.com/Kabir-Yadav/NSTFDS) — analytics dashboard for structured operational and logistics data · [live](https://nstfds.vercel.app)
+- [**2DOO**](https://github.com/Yash-Nautiyal/2D00) — task management app (Flutter) · [live](https://play.google.com/store/apps/details?id=tech.app2doo)
+- [**360News-AI**](https://github.com/Yash-Nautiyal/news_ai) — AI media monitoring for news-TV/Digital/Print/Social and UP-district wise analytics · [live](https://news-ai-havo.vercel.app/)
+- **Derma(Private Repo)** — dermatology clinic platform (bookings, prescriptions, patient portal, analytics) · [live](https://derma-sigma.vercel.app/)
+- **SECR-Media-Analytics(Private Repo)** — news-clipping and media analytics (Gen AI)· [live](https://secr-on2w.vercel.app/)
+
+
+
 
 Most of my recent work is private: Postgres + Supabase backends, RPC design, and analytics features for production apps.
 
@@ -28,4 +32,4 @@ Most of my recent work is private: Postgres + Supabase backends, RPC design, and
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/kabir-yadav) · GitHub [@Kabir-Yadav](https://github.com/Kabir-Yadav)
+LinkedIn [LinkedIn](https://www.linkedin.com/in/kabir-yadav) · GitHub [@Kabir-Yadav](https://github.com/Kabir-Yadav)
